@@ -1,0 +1,30 @@
+body{
+    background-color:#a3b7d9;
+    font-family:cursive ;
+}
+
+img{
+    width: 200px;
+    height:200px;
+    border-radius:50px;
+    border-style: dashed ;
+
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.contact{
+    text-align: center;
+}
+
+.number{
+    text-align: center;
+    
+}
+
